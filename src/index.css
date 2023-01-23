@@ -4,7 +4,8 @@
 
 body{
   margin: 0;
-  background-image: linear-gradient(to right, #15009a, #003cba, #0062d1, #0085e0, #12a7eb);
+  /* background-image: linear-gradient(to right, #15009a, #003cba, #0062d1, #0085e0, #12a7eb); */
+  background-color: red;
 }
  
 
