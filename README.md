@@ -1,1 +1,1 @@
-# https://aboscalculator.netlify.app/
+# https://abos-calculator.netlify.app/
